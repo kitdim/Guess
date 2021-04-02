@@ -14,9 +14,9 @@ while True:
     elif number < guess:
         print(f'The number is bigger, try again\n'
               f'Try № {_try}')
-        continue
+
     else:
         print(f'The number is less, try again\n'
               f'Try № {_try}')
-        continue
+
 
